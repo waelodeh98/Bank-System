@@ -59,4 +59,5 @@ The system checks for permissions before allowing any operation.
 **Wael Samer** – Software Engineering Student  
 
 [GitHub](https://github.com/waelodeh98)  
-[LinkedIn](https://www.linkedin.com/in/wael-samer)
+[LinkedIn Profile](https://www.linkedin.com/in/waelsamer)
+
