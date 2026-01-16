@@ -57,7 +57,7 @@ The system checks for permissions before allowing any operation.
 ## 👤 Author
 
 **Wael Samer** – Software Engineering Student  
-
+This project was assigned by Dr. Mohamed Abu Hadhoud as part of a course on Programming Advices platform .
 [GitHub](https://github.com/waelodeh98)  
 [LinkedIn Profile](https://www.linkedin.com/in/waelsamer)
 
