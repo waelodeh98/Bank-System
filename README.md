@@ -17,6 +17,7 @@ It allows users to manage clients and users, perform transactions, and control p
 - **Console UI**: Interactive menus for easy navigation.  
 
 ---
+Click on any image to watch the project video on LinkedIn
 
 ## 🖼️ Screenshots
 ![Bank System Screenshot 1](https://github.com/user-attachments/assets/44283ff8-94ba-4865-a31e-0edc24ff8133)
