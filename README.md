@@ -1,5 +1,7 @@
 # Bank System Console Application (C++)
 
+Watch the Bank Client Management System video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_bank-client-management-system-c-activity-7427190013244719104-eOBp)
+
 ## Overview
 This is a C++ Console Application that simulates a simple banking system.  
 It allows users to manage clients and users, perform transactions, and control permissions for different operations.
@@ -20,15 +22,17 @@ It allows users to manage clients and users, perform transactions, and control p
 Click on any image to watch the project video on LinkedIn
 
 ## 🖼️ Screenshots
-![Bank System Screenshot 1](https://github.com/user-attachments/assets/44283ff8-94ba-4865-a31e-0edc24ff8133)
 
-![Bank System Screenshot 2](https://github.com/user-attachments/assets/eb29800f-96c6-45a3-ba39-acc6476a9742)
+[![Bank System Screenshot 1](https://github.com/user-attachments/assets/44283ff8-94ba-4865-a31e-0edc24ff8133)](https://www.linkedin.com/posts/waelsamer_bank-client-management-system-c-activity-7427190013244719104-eOBp)
 
-![Bank System Screenshot 3](https://github.com/user-attachments/assets/d01d89d5-a60e-4fe4-9bd0-038fb7158fe6)
+[![Bank System Screenshot 2](https://github.com/user-attachments/assets/eb29800f-96c6-45a3-ba39-acc6476a9742)](https://www.linkedin.com/posts/waelsamer_bank-client-management-system-c-activity-7427190013244719104-eOBp)
 
-![Bank System Screenshot 4](https://github.com/user-attachments/assets/5a5a44aa-39c8-4543-bc10-9cdd84ddd6b6)
+[![Bank System Screenshot 3](https://github.com/user-attachments/assets/d01d89d5-a60e-4fe4-9bd0-038fb7158fe6)](https://www.linkedin.com/posts/waelsamer_bank-client-management-system-c-activity-7427190013244719104-eOBp)
 
-![Bank System Screenshot 5](https://github.com/user-attachments/assets/711cfc5c-8977-49bd-8d8a-c480b5a65052)
+[![Bank System Screenshot 4](https://github.com/user-attachments/assets/5a5a44aa-39c8-4543-bc10-9cdd84ddd6b6)](https://www.linkedin.com/posts/waelsamer_bank-client-management-system-c-activity-7427190013244719104-eOBp)
+
+[![Bank System Screenshot 5](https://github.com/user-attachments/assets/711cfc5c-8977-49bd-8d8a-c480b5a65052)](https://www.linkedin.com/posts/waelsamer_bank-client-management-system-c-activity-7427190013244719104-eOBp)
+
 
 ---
 
