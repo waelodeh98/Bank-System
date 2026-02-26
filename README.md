@@ -1,5 +1,7 @@
 # Bank System Console Application (C++)
 
+![Screenshot](https://github.com/user-attachments/assets/191c36a1-222c-43d5-8626-cdc9b8f87c59)
+
 Watch the Bank Client Management System video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_bank-client-management-system-c-activity-7427190013244719104-eOBp)
 
 ## Overview
